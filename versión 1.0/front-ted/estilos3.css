@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://fondosmil.com/fondo/3879.jpg);
+}
+.form-register {
+  width: 1500px;
+  background: rgb(12, 12, 12);
+  padding: 100px;
+  margin: auto;
+  margin-top: 400px;
+  border-radius: 100px;
+  font-family: "calibri";
+  color: white;
+  box-shadow: 20px 100px 37px #000;
+}
+
+h1 {
+  font-size: 100px;
+}
